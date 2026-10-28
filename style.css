@@ -1,7 +1,9 @@
 .web{
    border:1px solid #000;
    height:30px;
+   background-color:black;
 }
 .web p{
   text-align: left;
+   color:white;
 }
